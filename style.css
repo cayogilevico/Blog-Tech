@@ -1,6 +1,6 @@
 header {
-    background-color: #b4cbc5;
-    color: #013005;
+    background-color: #4c5eff;
+    color: #ffffff;
     text-align: center;
     max-width: 800px;
     margin: 0 auto;
@@ -11,8 +11,8 @@ h1{
 }
 
 main{
-    background-color: #e2e7cc;
-    color: #013005;
+    background-color: #889eff;
+    color: #ffffff;
     max-width: 800px;
     margin: 0 auto;
     text-align: center;
@@ -22,6 +22,6 @@ img{
     display: block;
     width: 250px;
     margin: 0 auto;
-    border: 4px solid #090435;
+    border: 4px solid #1f1480;
     height: 300px ;
 }
