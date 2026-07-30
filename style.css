@@ -28,6 +28,6 @@ img{
     margin: 0 auto;
 }
 
-.artigo-autor [
+.artigo-autor {
     font-weight: bold;
-]
+}
