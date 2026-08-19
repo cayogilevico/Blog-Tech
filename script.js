@@ -10,8 +10,8 @@ botoes.forEach(function (botao) {
          
         console.log("fui clicado");
 
-        let texto = botao.querySelectorAll("span");
-
+        let texto = botao.querySelector("span");
+        
         if (curtiu === false) {
             texto.textContent++;
             curtiu = true;
